@@ -69,7 +69,7 @@ public:
     void setName(const char* name)
     {
         delete[] this->name;
-        size_t length = strlen(name) + 1;
+        int length = strlen(name) + 1;
         this->name = new char[length];
         strcpy_s(this->name, length, name);
     }
