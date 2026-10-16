@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.CopyConstructor/01.CopyConstructor.vcxproj" Id="d41103c3-0a70-4ead-828a-7ece1ac09d30" />
+  <Project Path="02.ConstMethods/02.ConstMethods.vcxproj" Id="887c6b02-1f96-4818-8c7b-64c5d79d15b7" />
+  <Project Path="03.ExplicitConstructor/03.ExplicitConstructor.vcxproj" Id="c57f1116-5238-4848-9d69-e92a7d592352" />
+  <Project Path="HomeWork24/HomeWork24.vcxproj" Id="995bd9af-9270-43aa-b4da-a7b5164f629e" />
+</Solution>
