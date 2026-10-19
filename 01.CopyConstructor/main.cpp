@@ -75,7 +75,7 @@ public:
     void print()
     {
         // (void*) — щоб cout вивів адресу, а не рядок
-        cout << "  " << name << ", вік: " << age << "  (адреса name: " << &name << ")" << endl;
+        cout << "  " << name << ", вік: " << age << "  (адреса name: " << (void*)name << ")" << endl;
     }
 };
 
